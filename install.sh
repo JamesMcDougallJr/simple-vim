@@ -9,8 +9,8 @@
 #               : james.mcdougall@centauricorp.com
 #               : jamesimcdougalljr@gmail.com
 # Date Created  : 20-06-2020
-# Last Modified : Sat 20 Jun 2020 11:22:28 PM PDT
+# Last Modified : Sat 20 Jun 2020 11:25:45 PM PDT
 ############################################################################
 
-mv .vimrc ~/.vimrc
-mv .vim ~
+cp .vimrc ~/.vimrc
+cp  -r .vim ~
