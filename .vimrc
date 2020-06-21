@@ -10,6 +10,7 @@ set tabstop=2
 set shiftwidth=2
 set smarttab
 
+colorscheme industry
 
 " Start every bash file with my custom header
 au bufnewfile *.sh 0r /home/james/.vim/sh_header.temp
